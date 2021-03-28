@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to splunk-ejohns's slide!"
 ---
-This is splunk-ejohns's slide
+This is awsome slide
 Use the left arrow to go back!
